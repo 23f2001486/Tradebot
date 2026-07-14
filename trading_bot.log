@@ -1,0 +1,70 @@
+2026-07-14 20:10:48,473 - INFO - CLI request received
+2026-07-14 20:10:48,473 - INFO - Starting input validation...
+2026-07-14 20:10:48,473 - INFO - Validating symbol: BTCUSDT
+2026-07-14 20:10:48,473 - INFO - Validating order side: SELL
+2026-07-14 20:10:48,473 - INFO - Validating order type: LIMIT
+2026-07-14 20:10:48,473 - INFO - Validating quantity: 0.01
+2026-07-14 20:10:48,473 - INFO - Validating price: 105000.0 for order type: LIMIT
+2026-07-14 20:10:48,473 - INFO - All inputs validated successfully.
+2026-07-14 20:10:48,473 - INFO - Placing LIMIT order | Symbol: BTCUSDT, Side: SELL, Quantity: 0.01, Price: 105000.0
+2026-07-14 20:10:48,474 - INFO - Initializing Binance client...
+2026-07-14 20:10:49,138 - INFO - Binance Futures Testnet client created successfully.
+2026-07-14 20:10:49,138 - INFO - Creating LIMIT order...
+2026-07-14 20:10:49,517 - ERROR - Error placing order | Symbol: BTCUSDT, Side: SELL, Type: LIMIT, Error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-07-14 20:10:49,519 - ERROR - CLI Error: 'NoneType' object has no attribute 'get'
+2026-07-14 20:16:18,228 - INFO - CLI request received
+2026-07-14 20:16:18,229 - INFO - Starting input validation...
+2026-07-14 20:16:18,229 - INFO - Validating symbol: BTCUSDT
+2026-07-14 20:16:18,229 - INFO - Validating order side: SELL
+2026-07-14 20:16:18,229 - INFO - Validating order type: LIMIT
+2026-07-14 20:16:18,229 - INFO - Validating quantity: 0.01
+2026-07-14 20:16:18,229 - INFO - Validating price: 105000.0 for order type: LIMIT
+2026-07-14 20:16:18,229 - INFO - All inputs validated successfully.
+2026-07-14 20:16:18,230 - INFO - Placing LIMIT order | Symbol: BTCUSDT, Side: SELL, Quantity: 0.01, Price: 105000.0
+2026-07-14 20:16:18,230 - INFO - Initializing Binance client...
+2026-07-14 20:16:18,874 - INFO - Binance Futures Testnet client created successfully.
+2026-07-14 20:16:18,874 - INFO - Creating LIMIT order...
+2026-07-14 20:16:19,530 - ERROR - Error placing order | Symbol: BTCUSDT, Side: SELL, Type: LIMIT, Error: APIError(code=-1021): Timestamp for this request is outside of the recvWindow.
+2026-07-14 20:16:19,533 - ERROR - CLI Error: 'NoneType' object has no attribute 'get'
+2026-07-14 20:20:06,769 - INFO - CLI request received
+2026-07-14 20:20:06,770 - INFO - Starting input validation...
+2026-07-14 20:20:06,770 - INFO - Validating symbol: BTCUSDT
+2026-07-14 20:20:06,770 - INFO - Validating order side: SELL
+2026-07-14 20:20:06,770 - INFO - Validating order type: LIMIT
+2026-07-14 20:20:06,770 - INFO - Validating quantity: 0.01
+2026-07-14 20:20:06,771 - INFO - Validating price: 105000.0 for order type: LIMIT
+2026-07-14 20:20:06,771 - INFO - All inputs validated successfully.
+2026-07-14 20:20:06,771 - INFO - Placing LIMIT order | Symbol: BTCUSDT, Side: SELL, Quantity: 0.01, Price: 105000.0
+2026-07-14 20:20:06,771 - INFO - Initializing Binance client...
+2026-07-14 20:20:07,157 - INFO - Binance Futures Testnet client created successfully.
+2026-07-14 20:20:07,157 - INFO - Creating LIMIT order...
+2026-07-14 20:20:07,595 - INFO - LIMIT order placed successfully | Order ID: 21695499727
+2026-07-14 20:20:07,599 - INFO - Order completed successfully | ID: 21695499727
+2026-07-14 20:40:06,249 - INFO - CLI request received
+2026-07-14 20:40:06,249 - INFO - Starting input validation...
+2026-07-14 20:40:06,249 - INFO - Validating symbol: BTCUSDT
+2026-07-14 20:40:06,249 - INFO - Validating order side: SELL
+2026-07-14 20:40:06,249 - INFO - Validating order type: LIMIT
+2026-07-14 20:40:06,249 - INFO - Validating quantity: 0.01
+2026-07-14 20:40:06,249 - INFO - Validating price: 106000.0 for order type: LIMIT
+2026-07-14 20:40:06,249 - INFO - All inputs validated successfully.
+2026-07-14 20:40:06,250 - INFO - Placing LIMIT order | Symbol: BTCUSDT, Side: SELL, Quantity: 0.01, Price: 106000.0
+2026-07-14 20:40:06,250 - INFO - Initializing Binance client...
+2026-07-14 20:40:06,956 - INFO - Binance Futures Testnet client created successfully.
+2026-07-14 20:40:06,956 - INFO - Creating LIMIT order...
+2026-07-14 20:40:07,697 - INFO - LIMIT order placed successfully | Order ID: 21698800783
+2026-07-14 20:40:07,699 - INFO - Order completed successfully | ID: 21698800783
+2026-07-14 20:40:23,077 - INFO - CLI request received
+2026-07-14 20:40:23,077 - INFO - Starting input validation...
+2026-07-14 20:40:23,077 - INFO - Validating symbol: BTCUSDT
+2026-07-14 20:40:23,077 - INFO - Validating order side: BUY
+2026-07-14 20:40:23,077 - INFO - Validating order type: MARKET
+2026-07-14 20:40:23,077 - INFO - Validating quantity: 0.01
+2026-07-14 20:40:23,077 - INFO - Validating price: None for order type: MARKET
+2026-07-14 20:40:23,077 - INFO - All inputs validated successfully.
+2026-07-14 20:40:23,077 - INFO - Placing MARKET order | Symbol: BTCUSDT, Side: BUY, Quantity: 0.01, Price: None
+2026-07-14 20:40:23,077 - INFO - Initializing Binance client...
+2026-07-14 20:40:23,595 - INFO - Binance Futures Testnet client created successfully.
+2026-07-14 20:40:23,595 - INFO - Creating MARKET order...
+2026-07-14 20:40:24,073 - INFO - MARKET order placed successfully | Order ID: 21698843685
+2026-07-14 20:40:24,077 - INFO - Order completed successfully | ID: 21698843685
